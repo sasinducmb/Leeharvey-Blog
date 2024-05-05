@@ -35,4 +35,9 @@
 .blog-desc {
   padding: 1rem;
   margin-top: 1.5rem;
+  color: white;
+}
+
+.blog-title{
+  color: white;
 }
